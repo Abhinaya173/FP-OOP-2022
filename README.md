@@ -15,6 +15,8 @@ dan jika ingin meminjam lagi dapat dipersilahkan.
 
 # Aspek OOP
 1.	Casting --> Home.java
+https://github.com/Abhinaya173/FP-OOP-2022/blob/e3b816efe1abe78b5f2d1a0b778a765f59fa0a9f/Aplikasi_Perpustakaan/src/aplikasi_perpustakaan/Home.java#L248-L253
+
 2.	Constructor --> Home.java, Admin.Java dan DataTransaksi.java
 3.	Overloading --> Admin.java dan DataTransaksi.java
 4.	Overriding --> Login.java, Home.java
