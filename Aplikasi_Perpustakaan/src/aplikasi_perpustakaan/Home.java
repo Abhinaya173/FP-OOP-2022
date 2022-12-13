@@ -230,12 +230,14 @@ public class Home implements ActionListener{
                 }catch(ParseException k){  
                     k.printStackTrace();  
                 }
+                ```Casting
                 cal.add(Calendar.DAY_OF_MONTH, 7);  
                 String dateAfter = aa.format(cal.getTime());  
                 txtDurasi.setText("" + dateAfter);
                 int hargagold = 10000;
                 total = (hargagold + hrgbuku);
                 txtTotal.setText(Integer.valueOf(total).toString());
+                ```
             }else if(boxMember.getSelectedItem()=="Silver") {
                  Calendar cal = Calendar.getInstance();
                  String dateBefore = txtTanggal.getText();
