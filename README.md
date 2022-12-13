@@ -22,10 +22,13 @@ Referensi :
 6.	Inheritence
 7.	Plymorphism
 8.	ArrayList --> Home.java
-9.	Exception Handling Home.java, Login.java
-10.	GUI --> Home.java, Login.Java
+9.	Exception Handling --> Home.java, Login.java
+10.	GUI --> Home.java, Login.Java, Admin.Java
 11.	Interface --> login.java dan Home.java
 12.	Abstract Class
 13.	Generics
 14.	Collection --> Akun.java
 15.	Input Output --> Home.java
+
+# Link Youtube Demo
+https://youtu.be/MB8d-iPLX2E
