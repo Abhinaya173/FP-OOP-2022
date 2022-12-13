@@ -19,16 +19,12 @@ Referensi :
 3.	Overloading --> Admin.java dan DataTransaksi.java
 4.	Overriding --> Login.java, Home.java
 5.	Encapsubtion --> Aplikasi_Perpustakaan.java , Akun.java
-6.	Inheritence
-7.	Plymorphism
-8.	ArrayList --> Home.java
-9.	Exception Handling --> Home.java, Login.java
-10.	GUI --> Home.java, Login.Java, Admin.Java
-11.	Interface --> login.java dan Home.java
-12.	Abstract Class
-13.	Generics
-14.	Collection --> Akun.java
-15.	Input Output --> Home.java
+6.	ArrayList --> Home.java
+7.	Exception Handling --> Home.java, Login.java
+8.	GUI --> Home.java, Login.Java, Admin.Java
+9.	Interface --> login.java dan Home.java
+10.	Collection --> Akun.java
+11.	Input Output --> Home.java
 
 # Link Youtube Demo
 https://youtu.be/MB8d-iPLX2E
